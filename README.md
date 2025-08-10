@@ -2,7 +2,7 @@
 
 #645700 Sofía Mijares Peña
 
-Para este trabajo se nos requirió observar una base de datos relacionada a los niveles de obesidad de una población, datos que fueron recolectados por científicos procedentes de la Universidad de la Costa en Colombia, con los cuales se obtuvieron recursos gráficos para ejemplificar la información brindada por personas originarias de México, Perú y Colombia. Nosotros estuvimos usando una versión adaptada y más corta, creada como "A1.1 Obesidad.csv". Si se desea explorar el documento original, lo pueden encontrar en [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
+Para este trabajo se nos requirió observar una base de datos relacionada a los niveles de obesidad de una población, datos que fueron recolectados por científicos procedentes de la Universidad de la Costa en Colombia, con los cuales se obtuvieron recursos gráficos para ejemplificar la información brindada por personas originarias de México, Perú y Colombia. Nosotros estuvimos usando una versión adaptada y más corta, creada como "A1.1 Obesidad.csv". Si se desea explorar el documento original, lo pueden encontrar en [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition).
 
 En la base de datos se muestran las siguientes variables:
 
