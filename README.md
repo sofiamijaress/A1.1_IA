@@ -20,5 +20,7 @@ En la base de datos se muestran las siguientes variables:
 El trabajo presenta estos documentos: 
 
 * [Documento en formato html](645700.html)
+  
 * [Documento en formato ipynb](645700.ipynb)
+  
 * [Base de Datos](Obesidad.csv) 
